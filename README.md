@@ -33,7 +33,7 @@ Mobile-friendly optimization
 
 Download or clone the repository:
 
-git clone https://github.com/your-username/cybersecurity-dashboard.git
+git clone https://github.com/kaviyarasanbalasundaram/cybersecurity-awareness-dashboard)
 Open the project folder.
 Run the index.html file in any modern web browser.
 
